@@ -1,0 +1,44 @@
+! Standard AI Links
+||*.openai.com^
+||*.chatgpt.com^
+||oaiusercontent.com^
+||anthropic.com^
+||claude.ai^
+||api.claude.ai^
+||perplexity.ai^
+||api.perplexity.ai^
+||gemini.google.com^
+||deepmind.google^
+||ai.google^
+||bard.google.com^
+||copilot.microsoft.com^
+||bing.com^$important
+||copilot.microsoft^
+||copilot.cloud.microsoft^
+||x.ai^
+||groq.com^
+||character.ai^
+||poe.com^
+||huggingface.co^
+||runwayml.com^
+||midjourney.com^
+||stability.ai^
+||stability.ai^
+||leonardo.ai^
+||you.com^
+||chatgpt.com^
+||reka.ai^
+||mistral.ai^
+||cohere.com^
+||ai.meta.com^
+||llama.meta.com^
+! Data/crawling & AI training-related (some widely used crawlers)
+||commoncrawl.org^
+||diffbot.com^
+||webz.io^
+! Some popular AI-image/video tools
+||ideogram.ai^
+||krisp.ai^
+||heygen.com^
+||pika.art^
+||syntheticuser.com^
