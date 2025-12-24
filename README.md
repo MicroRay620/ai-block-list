@@ -6,8 +6,8 @@ Because I use Firefox and Qutebrowser, I am unsure if this will work on Chrome/C
 This will be tested on Brave and Google Chromium (with uBlock Lite) to see if this will work.
 ### Adding to uBlock Origin
 To add this block list, do the following:
-1. Go to `uBlock Settings > My Filters`
-<img width="297" height="47" alt="Step one image" src="https://github.com/user-attachments/assets/70db188f-5511-4c25-abd2-f5821d96b176" />
+1. Go to `uBlock Settings > Filter lists`
+<img width="205" height="52" alt="image" src="https://github.com/user-attachments/assets/6c16fca7-40ec-4691-8191-fa7b4f2f0ad6" />
 
 2. Add `https://subscribe.adblockplus.org/?location=encoded-url&title=optional-encoded-title` to your My Filters
 > The url in the `https://subscribe.adblockplus.org` will change when I get `https://rubyspace.net` running. It will be found under [https://git.rubyspace.net/raw/ai-blacklist.txt](https://git.rubyspace.net/raw/ai-blacklist.txt) 
