@@ -1,3 +1,12 @@
+! Title: AI Blocklist
+! Homepage: https://github.com/MicroRay620/ai-block-list/
+! License: https://github.com/MicroRay620/ai-block-list/blob/master/LICENSE 
+
+! Description:
+! This is a block list that you can add to your uBlock Origin and uBlock Lite to help reduce your Artificial Intelligence usage.
+! While this is currently hosted on GitHub, it will be changing sites but the license will forever be MIT
+
+
 ! Standard AI Links
 ||*.openai.com^
 ||*.chatgpt.com^
