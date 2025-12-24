@@ -9,7 +9,15 @@ To add this block list, do the following:
 1. Go to `uBlock Settings > Filter lists`
 <img width="205" height="52" alt="image" src="https://github.com/user-attachments/assets/6c16fca7-40ec-4691-8191-fa7b4f2f0ad6" />
 
-2. Add `https://subscribe.adblockplus.org/?location=encoded-url&title=optional-encoded-title` to your My Filters
-> The url in the `https://subscribe.adblockplus.org` will change when I get `https://rubyspace.net` running. It will be found under [https://git.rubyspace.net/raw/ai-blacklist.txt](https://git.rubyspace.net/raw/ai-blacklist.txt) 
+2. Go to `Imports` at the bottom
+<img width="106" height="24" alt="image" src="https://github.com/user-attachments/assets/3b1f3e68-0e1d-4aaf-b51b-f795d6fe12b8" />
 
-3. Click `Save`
+3. Click the drob down for `Imports`
+<img width="106" height="24" alt="image" src="https://github.com/user-attachments/assets/a6a679ae-facf-47d0-aff6-269f8548a322" />
+ 
+4. Add `https://subscribe.adblockplus.org/?location=encoded-url&title=optional-encoded-title` to your imports
+> The url in the `https://subscribe.adblockplus.org` will change when I get `https://rubyspace.net` running. It will be found under [https://git.rubyspace.net/raw/ai-blacklist.txt](https://git.rubyspace.net/raw/ai-blacklist.txt) 
+<img width="791" height="94" alt="image" src="https://github.com/user-attachments/assets/dd34b49b-3851-4824-ba0e-e50f7cf99587" />
+
+5. Click `Apply Changes`
+<img width="144" height="45" alt="image" src="https://github.com/user-attachments/assets/89a66ed9-9333-46d0-85b3-a83fb78bfe38" />
