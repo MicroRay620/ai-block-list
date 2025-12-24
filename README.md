@@ -17,7 +17,7 @@ To add this block list, do the following:
  
 4. Add `https://subscribe.adblockplus.org/?location=encoded-url&title=optional-encoded-title` to your imports
 > The url in the `https://subscribe.adblockplus.org` will change when I get `https://rubyspace.net` running. It will be found under [https://git.rubyspace.net/raw/ai-blacklist.txt](https://git.rubyspace.net/raw/ai-blacklist.txt) 
-<img width="791" height="94" alt="image" src="https://github.com/user-attachments/assets/dd34b49b-3851-4824-ba0e-e50f7cf99587" />
+<img width="1105" height="88" alt="image" src="https://github.com/user-attachments/assets/3f53fa57-21da-47ba-b23e-1047b9073c6a" />
 
 5. Click `Apply Changes`
 <img width="144" height="45" alt="image" src="https://github.com/user-attachments/assets/89a66ed9-9333-46d0-85b3-a83fb78bfe38" />
