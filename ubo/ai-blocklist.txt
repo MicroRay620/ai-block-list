@@ -1,11 +1,10 @@
 ! Title: AI Blocklist
 ! Homepage: https://github.com/MicroRay620/ai-block-list/
-! License: https://github.com/MicroRay620/ai-block-list/blob/master/LICENSE 
-! Description:
-! This is a block list that you can add to your uBlock Origin and uBlock Lite to help reduce your Artificial Intelligence usage.
-! While this is currently hosted on GitHub, it will be changing sites but the license will forever be MIT
-||*.openai.com^
-||*.chatgpt.com^
+! License: https://github.com/MicroRay620/ai-block-list/blob/master/LICENSE
+! Description: Blocklist for AI services
+
+||openai.com^
+||chatgpt.com^
 ||oaiusercontent.com^
 ||anthropic.com^
 ||claude.ai^
@@ -17,7 +16,6 @@
 ||ai.google^
 ||bard.google.com^
 ||copilot.microsoft.com^
-||bing.com^$important
 ||copilot.microsoft^
 ||copilot.cloud.microsoft^
 ||x.ai^
@@ -28,20 +26,16 @@
 ||runwayml.com^
 ||midjourney.com^
 ||stability.ai^
-||stability.ai^
 ||leonardo.ai^
 ||you.com^
-||chatgpt.com^
 ||reka.ai^
 ||mistral.ai^
 ||cohere.com^
 ||ai.meta.com^
 ||llama.meta.com^
-! Data/crawling & AI training-related (some widely used crawlers)
 ||commoncrawl.org^
 ||diffbot.com^
 ||webz.io^
-! Some popular AI-image/video tools
 ||ideogram.ai^
 ||krisp.ai^
 ||heygen.com^
