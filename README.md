@@ -15,9 +15,9 @@ To add this block list, do the following:
 3. Click the drob down for `Imports`
 <img width="106" height="24" alt="image" src="https://github.com/user-attachments/assets/a6a679ae-facf-47d0-aff6-269f8548a322" />
  
-4. Add `https://subscribe.adblockplus.org/?location=encoded-url&title=optional-encoded-title` to your imports
+4. Add `https://subscribe.adblockplus.org/?location=https%3%2%2raw.githubusercontent.com%2MicroRay620%2ai-block-list%2refs%2heads%2main%2ai-blocklist.txt&title=AI%20Blocklist` to your imports
 > The url in the `https://subscribe.adblockplus.org` will change when I get `https://rubyspace.net` running. It will be found under [https://git.rubyspace.net/raw/ai-blacklist.txt](https://git.rubyspace.net/raw/ai-blacklist.txt) 
-<img width="1105" height="88" alt="image" src="https://github.com/user-attachments/assets/3f53fa57-21da-47ba-b23e-1047b9073c6a" />
+<img width="1189" height="97" alt="image" src="https://github.com/user-attachments/assets/83f3d2ef-b422-458e-81bf-821b3a49f754" />
 
 5. Click `Apply Changes`
 <img width="144" height="45" alt="image" src="https://github.com/user-attachments/assets/89a66ed9-9333-46d0-85b3-a83fb78bfe38" />
